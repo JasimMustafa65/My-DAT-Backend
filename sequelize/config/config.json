@@ -1,0 +1,25 @@
+
+{
+    "development": {
+      "username": "smart_dat",
+      "password": "smart_dat_password",
+      "database": "smart_dat",
+      "host":"sf.cfe-solutions.co.uk" ,
+      "dialect": "mysql"
+    },
+  
+  "test": {
+   "username": "root",
+      "password": "bshhajh5665",
+      "database": "dat",
+      "host":"localhost" ,
+      "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+      "password": "bshhajh5665",
+      "database": "dat",
+      "host":"localhost" ,
+      "dialect": "mysql"
+  }
+}
